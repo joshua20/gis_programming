@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 jupyterlab = "*"
 xarray = "*"
+geemap = "*"
 
 [dev-packages]
 
