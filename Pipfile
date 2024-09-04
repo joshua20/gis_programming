@@ -13,6 +13,8 @@ seaborn = "*"
 jupyterlab = "*"
 xarray = "*"
 geemap = "*"
+geodatasets = "*"
+matplotlip = "*"
 
 [dev-packages]
 
