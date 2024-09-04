@@ -15,6 +15,7 @@ xarray = "*"
 geemap = "*"
 geodatasets = "*"
 matplotlip = "*"
+rasterio = "*"
 
 [dev-packages]
 
